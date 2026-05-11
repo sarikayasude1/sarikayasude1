@@ -19,8 +19,8 @@ Ben **Sude Sarıkaya**, Yeditepe Üniversitesi'nde 3. sınıf **Endüstri Mühen
 
 | Proje Adı | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
-| **Sustainability Optimization** | [cite_start]Hammadde israfında %15 azalma ve yıllık 10.000€ tasarruf sağlayan model[cite: 14]. | `Excel (Pivot/Scenario Analysis)` |
-| **Supply Chain Optimization** | [cite_start]Dağıtım stratejilerini optimize ederek taşıma maliyetlerini %18 düşüren Python modeli[cite: 16]. | `Python (Hypothesis Testing)` |
+| **Sustainability Optimization** | Hammadde israfında %15 azalma ve yıllık 10.000€ tasarruf sağlayan model. | `Excel (Pivot/Scenario Analysis)` |
+| **Supply Chain Optimization** | [cite_start]Dağıtım stratejilerini optimize ederek taşıma maliyetlerini %18 düşüren Python modeli. | `Python (Hypothesis Testing)` |
 
 ---
 
@@ -28,35 +28,35 @@ Ben **Sude Sarıkaya**, Yeditepe Üniversitesi'nde 3. sınıf **Endüstri Mühen
 
 | Alan | Araçlar ve Teknolojiler |
 | :--- | :--- |
-| **Programlama** | [cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) [cite: 29] |
-| **Veri & Optimizasyon** | [cite_start]![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-063545?style=flat&logo=autodesk&logoColor=white) [cite: 28] |
-| **Tasarım & Ofis** | [cite_start]![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Office365](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) [cite: 12, 28] |
+| **Programlama** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  |
+| **Veri & Optimizasyon** | ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-063545?style=flat&logo=autodesk&logoColor=white)  |
+| **Tasarım & Ofis** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Office365](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)  |
 
 ---
 
 ### 📚 Eğitim ve Sertifikalar
 
-* [cite_start]**Yeditepe Üniversitesi:** Endüstri Mühendisliği (2023 - Devam Ediyor)[cite: 7, 10].
-    * [cite_start]*İlgili Dersler:* Yöneylem Araştırması, Üretim Planlama, İstatistiksel Analiz, Simülasyon[cite: 11].
-* [cite_start]**Bilgi Koleji:** Fen Lisesi Diploması (Yüksek Onur Derecesi - 97.91/100)[cite: 17, 19, 20].
-* [cite_start]**MUN (Model United Nations):** Çok sayıda "En İyi Delege" ödülü[cite: 23].
+* **Yeditepe Üniversitesi:** Endüstri Mühendisliği (2023 - Devam Ediyor).
+    **İlgili Dersler:* Yöneylem Araştırması, Üretim Planlama, İstatistiksel Analiz, Simülasyon.
+* **Bilgi Koleji:** Fen Lisesi Diploması (Yüksek Onur Derecesi - 97.91/100).
+* **MUN (Model United Nations):** Çok sayıda "En İyi Delege" ödülü.
 
 ---
 
 ### 🗣️ Diller
 
-* [cite_start]**İngilizce:** C1 (Akıcı) ![English](https://img.shields.io/badge/-Fluent-blue) [cite: 26]
-* [cite_start]**Almanca:** B1/B2 (Üst Orta Seviye) ![German](https://img.shields.io/badge/-Upper--Intermediate-green) [cite: 26]
-* [cite_start]**İsveççe:** A2 (Başlangıç) [cite: 26]
-* [cite_start]**İspanyolca:** A1 (Başlangıç) [cite: 26]
+* **İngilizce:** C1 (Akıcı) ![English](https://img.shields.io/badge/-Fluent-blue)
+* **Almanca:** B1/B2 (Üst Orta Seviye) ![German](https://img.shields.io/badge/-Upper--Intermediate-green) 
+* **İsveççe:** A2 (Başlangıç) 
+* **İspanyolca:** A1 (Başlangıç)
 
 ---
 
 ### 🎨 Hobiler & İlgi Alanları
 
-* [cite_start]**Müzik:** Yeditepe Polifonik Korosu ve Canola Korosu üyesi[cite: 31]. [cite_start]Piyano, Klasik Gitar ve Ukulele çalıyorum (Elektro gitar öğreniyorum)[cite: 32].
-* [cite_start]**Yaratıcılık:** Seramik ve el sanatları ile ilgileniyorum[cite: 33].
-* [cite_start]**Topluluk:** YUSES (Endüstri Mühendisliği Topluluğu) ve Girişimcilik Kulübü aktif üyesi[cite: 23].
+* **Müzik:** Yeditepe Polifonik Korosu ve Canola Korosu üyesi[cite: 31]. Piyano, Klasik Gitar ve Ukulele çalıyorum (Elektro gitar öğreniyorum).
+* **Yaratıcılık:** Seramik ve el sanatları ile ilgileniyorum.
+* **Topluluk:** YUSES (Endüstri Mühendisliği Topluluğu) ve Girişimcilik Kulübü aktif üyesi.
 
 ---
 
