@@ -8,11 +8,10 @@
 
 ### 🧑‍💻 Hakkımda
 
-[cite_start]Ben **Sude Sarıkaya**, Yeditepe Üniversitesi'nde 3. sınıf **Endüstri Mühendisliği** öğrencisiyim[cite: 1, 4, 7]. [cite_start]Analitik yöntemler kullanarak süreç optimizasyonu ve verimlilik artırma konularına odaklanıyorum[cite: 4]. [cite_start]Çok dilli bir iletişim yeteneğine sahip, ekip çalışmasına yatkın ve sürekli öğrenmeye hevesli bir mühendis adayıyım[cite: 5].
+Ben **Sude Sarıkaya**, Yeditepe Üniversitesi'nde 3. sınıf **Endüstri Mühendisliği** öğrencisiyim.Analitik yöntemler kullanarak süreç optimizasyonu ve verimlilik artırma konularına odaklanıyorum.Çok dilli bir iletişim yeteneğine sahip, ekip çalışmasına yatkın ve sürekli öğrenmeye hevesli bir mühendis adayıyım.
 
-* [cite_start]📍 İstanbul, Türkiye'de yaşıyorum[cite: 1].
-* [cite_start]🎓 Haziran 2027'de mezun olmayı hedefliyorum[cite: 8].
-* [cite_start]🌍 Uluslararası bir staj fırsatı ile yeteneklerimi global bir ortamda uygulamak istiyorum[cite: 6].
+* 📍 İstanbul, Türkiye'de yaşıyorum.
+* 🎓 2027'de mezun olmayı hedefliyorum.
 
 ---
 
